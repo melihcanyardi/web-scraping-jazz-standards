@@ -7,5 +7,5 @@ The dataset can be found on [Kaggle](https://www.kaggle.com/melihcanyardi/jazz-s
 
 The code I have written to to retrieve the data can be found in [Web Scraping Jazz Standards Notebook](https://github.com/melihcanyardi/web-scraping-jazz-standards/blob/main/Web%20Scraping%20Jazz%20Standards.ipynb).
 
-A notebook where I have analyzed this dataset can be found in [An Analysis of the Jazz Standards](https://github.com/melihcanyardi/web-scraping-jazz-standards/blob/main/An%20Analysis%20of%20the%20Jazz%20Standards.ipynb)
+A notebook where I have analyzed this dataset can be found in [An Analysis of the Jazz Standards](https://github.com/melihcanyardi/web-scraping-jazz-standards/blob/main/An%20Analysis%20of%20the%20Jazz%20Standards.ipynb).  
 In this notebook, you can find information on: 1) top 10 years most of the standards were published, 2) top 10 composers with the most compositions, 3) top 10 lyricists with the most lyrics. Also, you can find the standards written by top 5 of those composers & lyricists.
